@@ -2,12 +2,46 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "Post process is required to remove flash material:",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Sometimes",
+        "b": "Always",
+        "c": "In some metal",
+        "d": "Never"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Lost foam casting is usually preferred for:",
+      "answers": {
+        "a": "Small",
+        "b": "Medium",
+        "c": "Large",
+        "d": "Small and medium complex shape"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Lost foam casting maintains surface finish of the order of:",
+      "answers": {
+        "a": "between 2.5 and 25µm",
+        "b": "between 2.5 and 23µm",
+        "c": "between 2.5 and 24µm",
+        "d": "between 2.5 and 20µm"
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
@@ -19,12 +53,12 @@
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "Which of the following is/are the reasons for which lost foam casting is not preferred:",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "High initial cost to create pattern",
+        "b": "Low strength for the pattern",
+        "c": "High cost of pattern for low volume applications",
+        "d": "All the above"
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
@@ -32,7 +66,24 @@
         "c": "Explanation 2",
         "d": "Explanation 2"
       },
-      "correctAnswer": "c",
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which of the following casting process doesn’t require riser:",
+      "answers": {
+        "a": "Slush casting",
+        "b": "Lost foam casting",
+        "c": "Ceramic shell casting",
+        "d": "Investment casting"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "b",
       "difficulty": "beginner"
     }
   ]
