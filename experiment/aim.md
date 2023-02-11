@@ -4,6 +4,6 @@
 
 Expanded polystyrene (2.5% polystyrene, 97.5% air)
 
-##Apparatus used:
+## Apparatus used:
 
 Expandable polystyrene, glue
