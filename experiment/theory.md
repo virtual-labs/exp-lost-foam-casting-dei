@@ -1,7 +1,7 @@
 ### Theory
 Lost foam casting is a casting process that exhibits characteristics of both investment casting and sand casting. It is a type of evaporative pattern casting that uses the pattern made of foam instead of wax. As in investment casting, the foam pattern is coated in refractory material, but the 'shell' is then surrounded by compacted un-bonded sand to give it strength. The foam pattern vaporises when molten metal is poured into the shell. As a result, a process has been developed that combines the quality and accuracy of investment casting with the reduced costs and more flexibility of sand casting.
 
-Lost Foam Casting Process:
+<b>Lost Foam Casting Process:</b>
 
 •	A foam pattern (see images above) is made using expanded polystyrene (2.5% polystyrene, 97.5% air). This can be formed by closed-die moulding, machining, or assembly from multiple parts. Risers and gates are included at this stage.
 
