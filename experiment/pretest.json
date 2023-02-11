@@ -2,12 +2,63 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "Polystyrene pattern is used in which of the following casting process:",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Slush casting",
+        "b": "Lost foam casting",
+        "c": "Ceramic shell casting",
+        "d": "Investment casting"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Materials that are mostly used in the lost foam casting is:",
+      "answers": {
+        "a": "Brass",
+        "b": "Silver",
+        "c": "Aluminium",
+        "d": "Copper"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Automotive part that are made using lost foam casting process is:",
+      "answers": {
+        "a": "Engine block",
+        "b": "Cylinder head",
+        "c": "Valves",
+        "d": "Both (a) and (b)"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "How much polystyrene is present in expandable polystyrene used to make pattern in lost foam casting:",
+      "answers": {
+        "a": "2.5%",
+        "b": "3.5%",
+        "c": "5.5%",
+        "d": "1.5%"
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
@@ -19,12 +70,12 @@
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "In general, the linear tolerance in lost foam casting is:",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "±0.0005mm",
+        "b": "±0.005mm",
+        "c": "±0.0055mm",
+        "d": "±0.00005mm"
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
@@ -32,7 +83,7 @@
         "c": "Explanation 2",
         "d": "Explanation 2"
       },
-      "correctAnswer": "c",
+      "correctAnswer": "b",
       "difficulty": "beginner"
     }
   ]

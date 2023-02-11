@@ -1,13 +1,128 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<!-- Add CSS at the head of HTML file -->
-    <link rel="stylesheet" href="./css/main.css">
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Manufacturing Processes (Foundry & Casting) Virtual Simulation Lab</title>
+	<link rel="stylesheet" type="text/css" href="css/style.css">
+	<script type="text/javascript" src="js/main.js"></script>
 </head>
 <body>
-		<!-- Your code goes here-->
-
-	<!-- Add JS at the bottom of HTML file --> 
-        <script src="./js/main.js"></script>
+<header>
+  <button class="menu-btn" onclick="dispmenu(this)">
+  <div class="container">
+  <div class="bar1"></div>
+  <div class="bar2"></div>
+  <div class="bar3"></div>
+  </div></button>
+  <b id="pagechanger"><a href="../index.html">Manufacturing Processes (Foundry & Casting) Virtual Simulation Lab</a></b>
+</header>
+<nav class="side-nav" id="navbar">
+		<div class="nav-element">
+			<a href="../index.html" >Aim</a>
+		</div>
+		<div class="nav-element">
+			<a href="../theory.html" >Theory</a>
+		</div>
+		<div class="nav-element">
+			<a href="../objective.html" >Objective</a>
+		</div>
+		<div class="nav-element">
+			<a href="../pretest.html" >Pretest</a>
+		</div>
+		<div class="nav-element">
+			<a href="../procedure.html" >Procedure</a>
+		</div>
+		<div class="nav-element">
+			<a href="index.html" >
+			<span>Simulation</span></a>
+		</div>
+		<div class="nav-element">
+			<a href="../posttest.html" >Posttest</a>
+		</div>
+		<div class="nav-element">
+			<a href="../references.html" >References</a>
+		</div>
+		<div class="nav-element">
+			<a href="../feedback.html" >Feedback</a>
+		</div>
+		</nav>
+		
+	<div id="simulation-cont">
+		<div id="matwork">
+			<div style="height:700px;">
+				Experiment 10: To prepare a pattern for given object for lost foam casting<br>
+				<div id="simulation">
+				<img src="images/apparatus.jpg" width="90%"><br><br>Materials and Apparatus
+				</div>
+				
+				<div class="dimension" id="dimension">
+				<b style="color:red;">Click on <u>Dimension</u> to get all dimension</b><br><br>
+				<img src="images/dimension.jpg" width="120px" title="Click here" onclick="dimension()"><br>Dimension
+				</div>
+				
+				<div class="sidecontainer" id="thickPaper">
+				<b style="color:red;">Click on <u>Thick Paper Sheet</u> to draw the patterns</b><br><br>
+				<img src="images/thickPaper.jpg" width="40%" title="Click here" onclick="thickPaper()"><br>Thick Paper Sheet
+				</div>
+				
+				<div class="sidecontainer" id="foamCutting">
+				<b style="color:red;">Click on <u>Foam Cutting Tool</u> for cutting the patterns</b><br><br>
+				<img src="images/foamCuttingTool.jpg" width="40%" title="Click here" onclick="foamCutting()"><br>Foam Cutting Tool
+				</div>
+				
+				<div class="sidecontainer" id="pattern300mm">
+				<b style="color:red;">Click on <u>Pattern</u> to cut at 300 mm</b><br><br>
+				<img src="images/patterns.jpg" width="40%" title="Click here" onclick="pattern300mm()"><br>Pattern
+				</div>
+				
+				<div class="sidecontainer" id="pattern600mm">
+				<b style="color:red;">Click on <u>Pattern</u> to cut at 600 mm</b><br><br>
+				<img src="images/patterns.jpg" width="40%" title="Click here" onclick="pattern600mm()"><br>Pattern
+				</div>
+				
+				<div class="sidecontainer" id="pattern900mm">
+				<b style="color:red;">Click on <u>Pattern</u> to cut at 900 mm</b><br><br>
+				<img src="images/patterns.jpg" width="40%" title="Click here" onclick="pattern900mm()"><br>Pattern
+				</div>
+				
+				<div class="sidecontainer" id="finalPattern">
+				<b style="color:red;">Click on <u>Pattern</u> to get final pattern</b><br><br>
+				<img src="images/pattern.jpg" width="60%" title="Click here" onclick="finalPattern()"><br>Pattern
+				</div>
+				
+			</div>
+<img src="images/reset.jpg" align="right" width="7%" onclick="resetfun()"><br>
+<hr>
+	<div id="about">
+		<div class="box" id="zoom">
+			<img src="images/thickPaper.jpg" title="Thick Paper Sheet">
+			<h3 class="h-secondary center">Thick Paper Sheet</h3>
+		</div>
+		
+		<div class="box" id="zoom">
+			<img src="images/pencil.jpg" title="Pencil">
+			<h3 class="h-secondary center">Pencil</h3>
+		</div>
+				
+		<div class="box" id="zoom">
+			<img src="images/foamCuttingTool.jpg" title="Foam Cutting Tool">
+			<h3 class="h-secondary center">Foam Cutting Tool</h3>
+		</div>
+				
+		<div class="box" id="zoom">
+			<img src="images/pattern.jpg" title="Pattern">
+			<h3 class="h-secondary center">Pattern</h3>
+		</div>
+		
+	</div>
+	</div>
+</div>
+<div style="margin-top:25px" id="footer">
+<hr>
+<Marquee>
+Copyright &copy; Dayalbagh Educational Institute&nbsp;<a href="https://www.dei.ac.in" target="_blank" title="DEI">(www.dei.ac.in)</a>&nbsp;-&nbsp;<a href="http://msvs-dei.vlabs.ac.in/ajay/index.html" target="_blank" title="Profile">Ajay Kant Upadhyay</a>
+</Marquee>
+</div>
 </body>
 </html>
