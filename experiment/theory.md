@@ -3,7 +3,7 @@ Lost foam casting is a casting process that exhibits characteristics of both inv
 
 <b>Lost Foam Casting Process:</b>
 
-•	A foam pattern (see images above) is made using expanded polystyrene (2.5% polystyrene, 97.5% air). This can be formed by closed-die moulding, machining, or assembly from multiple parts. Risers and gates are included at this stage.
+•	A foam pattern (see images above) is made using expanded polystyrene (2.5 % polystyrene, 97.5 % air). This can be formed by closed-die moulding, machining, or assembly from multiple parts. Risers and gates are included at this stage.
 
 •	Multiple finished patterns (including gating system) are glued together to form a cluster.
 
@@ -17,7 +17,7 @@ Lost foam casting is a casting process that exhibits characteristics of both inv
 
 •	The cast product or component can then be finished, treated, or machined as with any other casting.
 
-## Advantages
+### Advantages
 <b>Lost foam casting delivers many benefits, including:</b>
 
 •	Dimensionally accurate with typical linear tolerances of just ±0.005mm/mm
@@ -46,7 +46,7 @@ Lost foam casting is a casting process that exhibits characteristics of both inv
 
 •	Minimum wall thicknesses are just 2.5mm with no upper limit
 
-## Disadvantages 
+### Disadvantages 
 <b>There are some disadvantages to the lost foam casting process including:</b>
 
 •	Pattern costs can be high for low-volume applications
