@@ -55,10 +55,10 @@
     {
       "question": "How much polystyrene is present in expandable polystyrene used to make pattern in lost foam casting:",
       "answers": {
-        "a": "2.5%",
-        "b": "3.5%",
-        "c": "5.5%",
-        "d": "1.5%"
+        "a": "2.5 %",
+        "b": "3.5 %",
+        "c": "5.5 %",
+        "d": "1.5 %"
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
@@ -72,10 +72,10 @@
     {
       "question": "In general, the linear tolerance in lost foam casting is:",
       "answers": {
-        "a": "±0.0005mm",
-        "b": "±0.005mm",
-        "c": "±0.0055mm",
-        "d": "±0.00005mm"
+        "a": "±0.0005 mm",
+        "b": "±0.005 mm",
+        "c": "±0.0055 mm",
+        "d": "±0.00005 mm"
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
