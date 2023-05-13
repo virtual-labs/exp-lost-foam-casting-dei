@@ -20,9 +20,9 @@ Lost foam casting is a casting process that exhibits characteristics of both inv
 ### Advantages
 <b>Lost foam casting delivers many benefits, including:</b>
 
-•	Dimensionally accurate with typical linear tolerances of just ±0.005mm/mm
+•	Dimensionally accurate with typical linear tolerances of just ±0.005 mm/mm
 
-•	Maintains an excellent surface finish, typically between 2.5 and 25µm
+•	Maintains an excellent surface finish, typically between 2.5 and 25 µm
 
 •	Requires no draft to aid removal from the mould
 
