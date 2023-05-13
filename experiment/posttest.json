@@ -38,10 +38,10 @@
     {
       "question": "Lost foam casting maintains surface finish of the order of:",
       "answers": {
-        "a": "between 2.5 and 25µm",
-        "b": "between 2.5 and 23µm",
-        "c": "between 2.5 and 24µm",
-        "d": "between 2.5 and 20µm"
+        "a": "between 2.5 and 25 µm",
+        "b": "between 2.5 and 23 µm",
+        "c": "between 2.5 and 24 µm",
+        "d": "between 2.5 and 20 µm"
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
