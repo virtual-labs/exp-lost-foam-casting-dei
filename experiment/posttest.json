@@ -10,12 +10,12 @@
         "d": "Never"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Flash material, which refers to excess metal that squeezes out between the mold halves during the casting process, must be removed after casting.",
+        "b": "Flash material, which refers to excess metal that squeezes out between the mold halves during the casting process, must be removed after casting. It is a common occurrence in casting operations and is typically removed through post-processing methods such as trimming, grinding, or machining. This ensures that the final cast part meets dimensional and surface finish requirements.",
+        "c": "Flash material, which refers to excess metal that squeezes out between the mold halves during the casting process, must be removed after casting.",
+        "d": "Flash material, which refers to excess metal that squeezes out between the mold halves during the casting process, must be removed after casting."
       },
-      "correctAnswer": "d",
+      "correctAnswer": "b",
       "difficulty": "beginner"
     },
     {
@@ -27,10 +27,10 @@
         "d": "Small and medium complex shape"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Lost foam casting is particularly advantageous for casting small to medium- sized parts with complex geometries.",
+        "b": "Lost foam casting is particularly advantageous for casting small to medium- sized parts with complex geometries.",
+        "c": "Lost foam casting is particularly advantageous for casting small to medium- sized parts with complex geometries.",
+        "d": "Lost foam casting is particularly advantageous for casting small to medium- sized parts with complex geometries. The process allows for intricate details and shapes to be easily cast without the need for complex cores or parting lines, making it suitable for a wide range of applications where design flexibility and intricate shapes are required."
       },
       "correctAnswer": "d",
       "difficulty": "beginner"
@@ -44,10 +44,10 @@
         "d": "between 2.5 and 20 µm"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Lost foam casting maintains a surface finish in the range of 2.5 to 25 µm (micrometers). This range ensures that the cast parts have a smooth and consistent surface finish that meets the required specifications for dimensional accuracy and appearance.",
+        "b": "Lost foam casting maintains a surface finish in the range of 2.5 to 25 µm (micrometers)",
+        "c": "Lost foam casting maintains a surface finish in the range of 2.5 to 25 µm (micrometers)",
+        "d": "Lost foam casting maintains a surface finish in the range of 2.5 to 25 µm (micrometers)"
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
@@ -61,10 +61,10 @@
         "d": "All the above"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "High initial cost to create patterns, Low strength of the pattern and High cost of patterns for low-volume applications.",
+        "b": "High initial cost to create patterns, Low strength of the pattern and High cost of patterns for low-volume applications.",
+        "c": "High initial cost to create patterns, Low strength of the pattern and High cost of patterns for low-volume applications.",
+        "d": "High initial cost to create patterns, Low strength of the pattern and High cost of patterns for low-volume applications."
       },
       "correctAnswer": "d",
       "difficulty": "beginner"
@@ -78,10 +78,10 @@
         "d": "Investment casting"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Molten metal does not solidify in the same way as in traditional sand casting processes.",
+        "b": "Lost foam casting typically does not require risers because the molten metal does not solidify in the same way as in traditional sand casting processes. In lost foam casting, the pattern (made of polystyrene) is vaporized when the molten metal is poured, creating a void that is filled by the metal without the need for risers to feed additional molten metal to the casting.",
+        "c": "Molten metal does not solidify in the same way as in traditional sand casting processes.",
+        "d": "Molten metal does not solidify in the same way as in traditional sand casting processes."
       },
       "correctAnswer": "b",
       "difficulty": "beginner"
