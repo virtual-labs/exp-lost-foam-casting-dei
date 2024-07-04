@@ -10,10 +10,10 @@
         "d": "Investment casting"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Polystyrene patterns are used in the lost foam casting process. In this method, a polystyrene pattern of the desired part is created and then coated with a refractory material. When molten metal is poured into the mold, the polystyrene pattern vaporizes due to the heat, leaving behind a cavity that is filled with metal. This process is also known as evaporative pattern casting.",
+        "b": "Polystyrene patterns are used in the lost foam casting process.",
+        "c": "Polystyrene patterns are used in the lost foam casting process.",
+        "d": "Polystyrene patterns are used in the lost foam casting process."
       },
       "correctAnswer": "b",
       "difficulty": "beginner"
@@ -27,10 +27,10 @@
         "d": "Copper"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Lost foam casting is commonly used for casting aluminum and its alloys.",
+        "b": "Lost foam casting is commonly used for casting aluminum and its alloys.",
+        "c": "Lost foam casting is commonly used for casting aluminum and its alloys. The process is particularly suitable for aluminum because the vaporization temperature of polystyrene patterns matches well with the pouring temperature of aluminum, allowing for effective pattern removal and metal filling.",
+        "d": "Lost foam casting is commonly used for casting aluminum and its alloys."
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
@@ -44,10 +44,10 @@
         "d": "Both (a) and (b)"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Both engine blocks and cylinder heads are automotive parts that can be made using the lost foam casting process.",
+        "b": "Both engine blocks and cylinder heads are automotive parts that can be made using the lost foam casting process.",
+        "c": "Both engine blocks and cylinder heads are automotive parts that can be made using the lost foam casting process.",
+        "d": "Both engine blocks and cylinder heads are automotive parts that can be made using the lost foam casting process. Lost foam casting is suitable for producing complex and intricate shapes like those found in engine blocks and cylinder heads, which often require intricate cooling passages and precise geometries."
       },
       "correctAnswer": "d",
       "difficulty": "beginner"
@@ -61,10 +61,10 @@
         "d": "1.5 %"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Then the correct amount of polystyrene present in expandable polystyrene (EPS) used to make patterns in lost foam casting is 2.5%. This percentage reflects the proportion of polystyrene in the EPS beads that is crucial for the formation of the patterns before they are vaporized during the casting process.",
+        "b": "Then the correct amount of polystyrene present in expandable polystyrene (EPS) used to make patterns in lost foam casting is 2.5%.",
+        "c": "Then the correct amount of polystyrene present in expandable polystyrene (EPS) used to make patterns in lost foam casting is 2.5%.",
+        "d": "Then the correct amount of polystyrene present in expandable polystyrene (EPS) used to make patterns in lost foam casting is 2.5%."
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
@@ -78,10 +78,10 @@
         "d": "±0.00005 mm"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "±0.005 mm, allowing for precise and accurate reproduction of complex shapes and details.",
+        "b": "This tolerance level is generally achievable in lost foam casting processes. It ensures that the dimensions of the cast part closely match the dimensions of the pattern used, allowing for precise and accurate reproduction of complex shapes and details.",
+        "c": "±0.005 mm, allowing for precise and accurate reproduction of complex shapes and details.",
+        "d": "±0.005 mm, allowing for precise and accurate reproduction of complex shapes and details."
       },
       "correctAnswer": "b",
       "difficulty": "beginner"
