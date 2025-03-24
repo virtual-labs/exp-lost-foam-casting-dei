@@ -2,88 +2,88 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "Post process is required to remove flash material:",
+      "question": "Which factor differentiates lost foam casting from investment casting? (LO3)",
       "answers": {
-        "a": "Sometimes",
-        "b": "Always",
-        "c": "In some metal",
-        "d": "Never"
+        "a": "Use of foam instead of wax for the pattern",
+        "b": "Need for bonded sand",
+        "c": "Higher cost compared to investment casting",
+        "d": "Use of permanent moulds"
       },
       "explanations": {
-        "a": "Flash material, which refers to excess metal that squeezes out between the mold halves during the casting process, must be removed after casting.",
-        "b": "Flash material, which refers to excess metal that squeezes out between the mold halves during the casting process, must be removed after casting. It is a common occurrence in casting operations and is typically removed through post-processing methods such as trimming, grinding, or machining. This ensures that the final cast part meets dimensional and surface finish requirements.",
-        "c": "Flash material, which refers to excess metal that squeezes out between the mold halves during the casting process, must be removed after casting.",
-        "d": "Flash material, which refers to excess metal that squeezes out between the mold halves during the casting process, must be removed after casting."
-      },
-      "correctAnswer": "b",
-      "difficulty": "beginner"
-    },
-    {
-      "question": "Lost foam casting is usually preferred for:",
-      "answers": {
-        "a": "Small",
-        "b": "Medium",
-        "c": "Large",
-        "d": "Small and medium complex shape"
-      },
-      "explanations": {
-        "a": "Lost foam casting is particularly advantageous for casting small to medium- sized parts with complex geometries.",
-        "b": "Lost foam casting is particularly advantageous for casting small to medium- sized parts with complex geometries.",
-        "c": "Lost foam casting is particularly advantageous for casting small to medium- sized parts with complex geometries.",
-        "d": "Lost foam casting is particularly advantageous for casting small to medium- sized parts with complex geometries. The process allows for intricate details and shapes to be easily cast without the need for complex cores or parting lines, making it suitable for a wide range of applications where design flexibility and intricate shapes are required."
-      },
-      "correctAnswer": "d",
-      "difficulty": "beginner"
-    },
-    {
-      "question": "Lost foam casting maintains surface finish of the order of:",
-      "answers": {
-        "a": "between 2.5 and 25 µm",
-        "b": "between 2.5 and 23 µm",
-        "c": "between 2.5 and 24 µm",
-        "d": "between 2.5 and 20 µm"
-      },
-      "explanations": {
-        "a": "Lost foam casting maintains a surface finish in the range of 2.5 to 25 µm (micrometers). This range ensures that the cast parts have a smooth and consistent surface finish that meets the required specifications for dimensional accuracy and appearance.",
-        "b": "Lost foam casting maintains a surface finish in the range of 2.5 to 25 µm (micrometers)",
-        "c": "Lost foam casting maintains a surface finish in the range of 2.5 to 25 µm (micrometers)",
-        "d": "Lost foam casting maintains a surface finish in the range of 2.5 to 25 µm (micrometers)"
+        "a": "Investment casting uses wax patterns, whereas lost foam casting uses polystyrene foam, which vaporises upon metal pouring.",
+        "b": "Investment casting uses wax patterns, whereas lost foam casting uses polystyrene foam, which vaporises upon metal pouring.",
+        "c": "Investment casting uses wax patterns, whereas lost foam casting uses polystyrene foam, which vaporises upon metal pouring.",
+        "d": "Investment casting uses wax patterns, whereas lost foam casting uses polystyrene foam, which vaporises upon metal pouring."
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "Which of the following is/are the reasons for which lost foam casting is not preferred:",
+      "question": "Why is vibration necessary when using unbonded sand? (LO1)",
       "answers": {
-        "a": "High initial cost to create pattern",
-        "b": "Low strength for the pattern",
-        "c": "High cost of pattern for low volume applications",
-        "d": "All the above"
+        "a": "To remove impurities",
+        "b": "To compact the sand and prevent defects",
+        "c": "To accelerate the melting of metal",
+        "d": "To remove air bubbles from the molten metal"
       },
       "explanations": {
-        "a": "High initial cost to create patterns, Low strength of the pattern and High cost of patterns for low-volume applications.",
-        "b": "High initial cost to create patterns, Low strength of the pattern and High cost of patterns for low-volume applications.",
-        "c": "High initial cost to create patterns, Low strength of the pattern and High cost of patterns for low-volume applications.",
-        "d": "High initial cost to create patterns, Low strength of the pattern and High cost of patterns for low-volume applications."
-      },
-      "correctAnswer": "d",
-      "difficulty": "beginner"
-    },
-    {
-      "question": "Which of the following casting process doesn’t require riser:",
-      "answers": {
-        "a": "Slush casting",
-        "b": "Lost foam casting",
-        "c": "Ceramic shell casting",
-        "d": "Investment casting"
-      },
-      "explanations": {
-        "a": "Molten metal does not solidify in the same way as in traditional sand casting processes.",
-        "b": "Lost foam casting typically does not require risers because the molten metal does not solidify in the same way as in traditional sand casting processes. In lost foam casting, the pattern (made of polystyrene) is vaporized when the molten metal is poured, creating a void that is filled by the metal without the need for risers to feed additional molten metal to the casting.",
-        "c": "Molten metal does not solidify in the same way as in traditional sand casting processes.",
-        "d": "Molten metal does not solidify in the same way as in traditional sand casting processes."
+        "a": "Vibration densely packs the sand, ensuring uniform support around the foam pattern, reducing the chance of casting defects.",
+        "b": "Vibration densely packs the sand, ensuring uniform support around the foam pattern, reducing the chance of casting defects.",
+        "c": "Vibration densely packs the sand, ensuring uniform support around the foam pattern, reducing the chance of casting defects.",
+        "d": "Vibration densely packs the sand, ensuring uniform support around the foam pattern, reducing the chance of casting defects."
       },
       "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+  {
+      "question": "Why does lost foam casting not require a parting line? (LO1)",
+      "answers": {
+        "a": "Because the foam pattern is made in two halves",
+        "b": "Because the pattern vaporises completely during casting",
+        "c": "Because the sand mould is permanently bonded",
+        "d": "Because the mould is reusable"
+      },
+      "explanations": {
+        "a": "In lost foam casting, the foam pattern is fully consumed by the molten metal, eliminating the need for a split mould or a parting line, which are typically required in traditional casting processes.",
+        "b": "In lost foam casting, the foam pattern is fully consumed by the molten metal, eliminating the need for a split mould or a parting line, which are typically required in traditional casting processes.",
+        "c": "In lost foam casting, the foam pattern is fully consumed by the molten metal, eliminating the need for a split mould or a parting line, which are typically required in traditional casting processes.",
+        "d": "In lost foam casting, the foam pattern is fully consumed by the molten metal, eliminating the need for a split mould or a parting line, which are typically required in traditional casting processes."
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+  {
+      "question": "What role does the refractory coating play in lost foam casting? (LO1)",
+      "answers": {
+        "a": "It strengthens the foam pattern",
+        "b": "It acts as a mould release agent",
+        "c": "It prevents metal penetration into the sand",
+        "d": "It speeds up the vaporisation of the foam"
+      },
+      "explanations": {
+        "a": "The refractory coating creates a protective barrier that ensures the molten metal does not seep into the surrounding sand, improving the surface quality and accuracy of the final casting.",
+        "b": "The refractory coating creates a protective barrier that ensures the molten metal does not seep into the surrounding sand, improving the surface quality and accuracy of the final casting.",
+        "c": "The refractory coating creates a protective barrier that ensures the molten metal does not seep into the surrounding sand, improving the surface quality and accuracy of the final casting.",
+        "d": "The refractory coating creates a protective barrier that ensures the molten metal does not seep into the surrounding sand, improving the surface quality and accuracy of the final casting."
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+ {
+      "question": "What is one disadvantage of using unbonded sand in lost foam casting? (LO2)",
+      "answers": {
+        "a": "It requires additional binders to hold its shape",
+        "b": "It is not reusable",
+        "c": "It may shift if not properly compacted",
+        "d": "It increases the casting temperature"
+      },
+      "explanations": {
+        "a": "Since unbonded sand is loose, it relies on vibration for compaction. If not properly compacted, the sand can shift during pouring, affecting the accuracy and surface quality of the casting.",
+        "b": "Since unbonded sand is loose, it relies on vibration for compaction. If not properly compacted, the sand can shift during pouring, affecting the accuracy and surface quality of the casting.",
+        "c": "Since unbonded sand is loose, it relies on vibration for compaction. If not properly compacted, the sand can shift during pouring, affecting the accuracy and surface quality of the casting.",
+        "d": "Since unbonded sand is loose, it relies on vibration for compaction. If not properly compacted, the sand can shift during pouring, affecting the accuracy and surface quality of the casting."
+      },
+      "correctAnswer": "c",
       "difficulty": "beginner"
     }
   ]
