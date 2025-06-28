@@ -1,0 +1,90 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "What type of sand is used in lost foam casting? (LO1)",
+      "answers": {
+        "a": "Greensand",
+        "b": "Resin-bonded sand",
+        "c": "Unbonded dry sand",
+        "d": "Core sand"
+      },
+      "explanations": {
+        "a": "Lost foam casting uses unbonded dry sand, which allows gas escape and compacts well around the foam pattern without requiring binders.",
+        "b": "Lost foam casting uses unbonded dry sand, which allows gas escape and compacts well around the foam pattern without requiring binders.",
+        "c": "Lost foam casting uses unbonded dry sand, which allows gas escape and compacts well around the foam pattern without requiring binders.",
+        "d": "Lost foam casting uses unbonded dry sand, which allows gas escape and compacts well around the foam pattern without requiring binders."
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "What material is used to coat the foam pattern in lost foam casting? (LO1)",
+      "answers": {
+        "a": "Wax",
+        "b": "Ceramic",
+        "c": "Permeable refractory slurry",
+        "d": "Green sand"
+      },
+      "explanations": {
+        "a": "The foam pattern is coated with a permeable refractory slurry, which, once dried, forms a rigid shell. This prevents metal penetration and improves the surface quality of the final casting.",
+        "b": "The foam pattern is coated with a permeable refractory slurry, which, once dried, forms a rigid shell. This prevents metal penetration and improves the surface quality of the final casting.",
+        "c": "The foam pattern is coated with a permeable refractory slurry, which, once dried, forms a rigid shell. This prevents metal penetration and improves the surface quality of the final casting.",
+        "d": "The foam pattern is coated with a permeable refractory slurry, which, once dried, forms a rigid shell. This prevents metal penetration and improves the surface quality of the final casting."
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+  {
+      "question": ". What happens to the foam pattern when molten metal is poured into the mould? (LO1)",
+      "answers": {
+        "a": "It melts and mixes with the metal",
+        "b": "It expands and strengthens the mould",
+        "c": "It vaporises completely, leaving a cavity for metal",
+        "d": "It hardens to form the final shape"
+      },
+      "explanations": {
+        "a": "The high temperature of molten metal causes the foam to vaporise, leaving an exact cavity that is then filled with metal, forming the final casting.",
+        "b": "The high temperature of molten metal causes the foam to vaporise, leaving an exact cavity that is then filled with metal, forming the final casting.",
+        "c": "The high temperature of molten metal causes the foam to vaporise, leaving an exact cavity that is then filled with metal, forming the final casting.",
+        "d": "The high temperature of molten metal causes the foam to vaporise, leaving an exact cavity that is then filled with metal, forming the final casting."
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+  {
+      "question": "What is a major disadvantage of lost foam casting? (LO3)",
+      "answers": {
+        "a": "High production speed",
+        "b": "High pattern costs for low-volume production",
+        "c": "Inability to cast large components",
+        "d": "Limited material choices"
+      },
+      "explanations": {
+        "a": "Since foam patterns are single-use, they are expensive for low production runs. If closed-die moulding is used for pattern creation, the initial tooling costs can also be high.",
+        "b": "Since foam patterns are single-use, they are expensive for low production runs. If closed-die moulding is used for pattern creation, the initial tooling costs can also be high.",
+        "c": "Since foam patterns are single-use, they are expensive for low production runs. If closed-die moulding is used for pattern creation, the initial tooling costs can also be high.",
+        "d": "Since foam patterns are single-use, they are expensive for low production runs. If closed-die moulding is used for pattern creation, the initial tooling costs can also be high."
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+ {
+      "question": "What is the typical surface finish achieved in lost foam casting? (LO1)",
+      "answers": {
+        "a": "10-50 µm",
+        "b": "2.5-25 µm",
+        "c": "50-100 µm",
+        "d": "100-200 µm"
+      },
+      "explanations": {
+        "a": "Lost foam casting provides an excellent surface finish, typically ranging between 2.5 and 25 µm, reducing the need for extensive post-processing or machining.",
+        "b": "Lost foam casting provides an excellent surface finish, typically ranging between 2.5 and 25 µm, reducing the need for extensive post-processing or machining.",
+        "c": "Lost foam casting provides an excellent surface finish, typically ranging between 2.5 and 25 µm, reducing the need for extensive post-processing or machining.",
+        "d": "Lost foam casting provides an excellent surface finish, typically ranging between 2.5 and 25 µm, reducing the need for extensive post-processing or machining."
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    }
+  ]
+}

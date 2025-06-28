@@ -1,0 +1,17 @@
+
+/home/runner/work/exp-lost-foam-casting-dei/exp-lost-foam-casting-dei/experiment/simulation/js/main.js
+   3:5   warning  'naoh' is assigned a value but never used  no-unused-vars
+   4:5   warning  'sand' is assigned a value but never used  no-unused-vars
+   5:10  warning  'dispmenu' is defined but never used       no-unused-vars
+  25:1   warning  Mixed spaces and tabs                      no-mixed-spaces-and-tabs
+  28:10  warning  'dimension' is defined but never used      no-unused-vars
+  37:10  warning  'thickPaper' is defined but never used     no-unused-vars
+  46:10  warning  'foamCutting' is defined but never used    no-unused-vars
+  55:10  warning  'pattern300mm' is defined but never used   no-unused-vars
+  64:10  warning  'pattern600mm' is defined but never used   no-unused-vars
+  73:10  warning  'pattern900mm' is defined but never used   no-unused-vars
+  82:10  warning  'finalPattern' is defined but never used   no-unused-vars
+  88:10  warning  'resetfun' is defined but never used       no-unused-vars
+
+✖ 12 problems (0 errors, 12 warnings)
+
